@@ -9,5 +9,9 @@ Completed the questions in java, Completed the Java Programming Elements Level 1
 Topic: Java Programming Elements Level 1 and Level 2
 
 Day 3: 23/01/2025
-Completed the questions in java
+Completed the questions in java (Control Flow)
 Topic: Control Flow Level 1, Level 2 and Level 3
+
+Day 4: 25/01/2025
+Completed the questions in java on Arrays
+Topic: Arrays Level 1 and Level 2
