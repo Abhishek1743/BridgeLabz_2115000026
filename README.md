@@ -20,4 +20,6 @@ Day 5: 28/01/2025
 Completed the questions in java on Java Methods
 Topic: Java Methods Level 1, Level 2 and Level 3
 
-
+Day 6: 29/01/2025
+Completed the questions in java on Java String
+Topic: Java String (Day8, Day8ProblemStatement and Java String)
