@@ -1,25 +1,24 @@
-import java.util.HashSet;
-
-public class RemoveDuplicate{
-    public static void main(String[] args) {
-        String input = "programming";
-        
-        // Create a HashSet to store unique characters
-        HashSet<Character> seenCharacters = new HashSet<>();
-        
-        // StringBuilder to build the result without duplicates
-        StringBuilder result = new StringBuilder();
-        
-        // Iterate through the string
-        for (int i = 0; i < input.length(); i++) {
-            char ch = input.charAt(i);
-            // If the character is not in the HashSet, add it to the result and the HashSet
-            if (!seenCharacters.contains(ch)) {
-                result.append(ch);
-                seenCharacters.add(ch);
+import java.util.Scanner;
+public class RemoveDuplicates{
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a String");
+        String str = sc.nextLine();
+        String result = "";
+        for(int i=0; i<str.length(); i++){
+            char ch = str.charAt(i);
+            boolean isDuplicate = false;
+            for(int j=0; j<result.length(); j++){
+                if(result.charAt(j) == ch){
+                    isDuplicate = true;
+                    break;
+                }
+            }
+            if(!isDuplicate){
+                result += ch;
             }
         }
-        System.out.println("Original String: " + input);
-        System.out.println("String after removing duplicates: " + result.toString());
-    }
+        System.out.println("Original String: " + str);
+            System.out.println("String after removing duplicates: " + result);
+        }
 }
