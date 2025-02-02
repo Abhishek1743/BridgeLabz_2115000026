@@ -27,3 +27,7 @@ Topic: Java String (Day8, Day8ProblemStatement and Java String)
 Day 7: 31/01/2025
 Completed the questions in java on Java Class and Object
 Topic: Java Class and Object
+
+Day 8: 02/02/2025
+Completed the questions in java on Java Constructors, Instance vs. Class Variables, Access Modifiers
+Topic: Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
