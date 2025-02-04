@@ -31,3 +31,7 @@ Topic: Java Class and Object
 Day 8: 02/02/2025
 Completed the questions in java on Java Constructors, Instance vs. Class Variables, Access Modifiers
 Topic: Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
+
+Day 9: 04/02/2025
+Completed the questions in java on this, static, final key words and instanceof operator
+Topic: This, static, final key words and instanceof operator Level 1 Lab Practice
