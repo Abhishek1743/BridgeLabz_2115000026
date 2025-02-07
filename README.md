@@ -39,3 +39,15 @@ Topic: This, static, final key words and instanceof operator Level 1 Lab Practic
 Day 10: 05/02/2025
 Completed the questions in java on Object Oriented Design Principles. Class diagram, Object diagram and Sequence diagram.
 Topic: Object Oriented Design Principles
+
+Day 11: 07/02/2025
+Completed the questions in java on Inheritance.
+Topic: - Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+ - Access Modifiers and Inheritance
