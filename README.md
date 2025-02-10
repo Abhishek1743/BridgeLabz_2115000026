@@ -42,7 +42,8 @@ Topic: Object Oriented Design Principles
 
 Day 11: 07/02/2025
 Completed the questions in java on Inheritance.
-Topic: - Inheritance
+Topic:
+- Inheritance
 - Single Level Inheritance
 - Multilevel Inheritance
 - Hierarchical Inheritance
@@ -51,3 +52,11 @@ Topic: - Inheritance
 - Constructor Inheritance in Java
 - Polymorphism and Inheritance
  - Access Modifiers and Inheritance
+
+Day 12: 10/02/2025
+Completed the questionns in java on Encapsulation, Polymorphism, Interface and Abstract Class.
+Topic: 
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
