@@ -71,3 +71,9 @@ Topic:
 - Double Linked List
 - Circular Linked List  
 
+Day 14: 13/02/2025  
+Completed the questions in java on Stack, Queue, HashMap and Hashing Function  
+Topic:
+- Stack
+- Queue
+- HashMap and Hashing Function  
