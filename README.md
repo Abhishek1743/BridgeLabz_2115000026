@@ -15,6 +15,16 @@ Topic: Control Flow Level 1, Level 2 and Level 3
 Day 4: 25/01/2025  
 Completed the questions in java on Arrays  
 Topic: Arrays Level 1 and Level 2  
+- Java Arrays
+- Create an Array
+- Access an Array
+- Accessing using for loop
+- Modifying an Array
+- Using length property of array
+- Java Multi-demensional Array
+- Java 2 Dimensional Array (Matrix)
+- Accessing, finding size, etc of Multi-Dimensional Array
+- Using Java System error() message and exit() method  
 
 Day 5: 28/01/2025  
 Completed the questions in java on Java Methods  
@@ -26,19 +36,32 @@ Topic: Java String (Day8, Day8ProblemStatement and Java String)
 
 Day 7: 31/01/2025  
 Completed the questions in java on Java Class and Object  
-Topic: Java Class and Object  
+Topic:
+- Procedural vs Object-oriented Programming Language
+- Class and Object  
 
 Day 8: 02/02/2025  
 Completed the questions in java on Java Constructors, Instance vs. Class Variables, Access Modifiers  
-Topic: Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice  
+Topic:
+- Java Constructors
+- Instance vs. Class Variables
+- Access Modifiers Level 1  
 
 Day 9: 04/02/2025  
 Completed the questions in java on this, static, final key words and instanceof operator  
-Topic: This, static, final key words and instanceof operator Level 1 Lab Practice  
+Topic:
+- this
+- static
+- final
+- instanceof operator  
 
 Day 10: 05/02/2025  
 Completed the questions in java on Object Oriented Design Principles. Class diagram, Object diagram and Sequence diagram.  
-Topic: Object Oriented Design Principles  
+Topic:
+Object Oriented Design Principles
+- Class Diagram
+- Object Diagrams
+- Sequence Diagrams
 
 Day 11: 07/02/2025  
 Completed the questions in java on Inheritance.  
@@ -77,3 +100,14 @@ Topic:
 - Stack
 - Queue
 - HashMap and Hashing Function  
+
+Day 15: 14/02/2025  
+Completed the questions in java on Sorting Algorithms.
+Topic:
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Insertion Sort
+- Selection Sort
+- Counting Sort  
