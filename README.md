@@ -111,3 +111,13 @@ Topic:
 - Insertion Sort
 - Selection Sort
 - Counting Sort  
+
+Day 16: 16/02/2025
+Completed the questions in java on Linear and Binary Search.
+Topic:
+- StringBuilder
+- StringBuffer
+- FileReader, 
+- InputStreamReader
+- Linear Search 
+- Binary Search  
