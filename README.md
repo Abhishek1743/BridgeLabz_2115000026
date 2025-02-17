@@ -102,7 +102,7 @@ Topic:
 - HashMap and Hashing Function  
 
 Day 15: 14/02/2025  
-Completed the questions in java on Sorting Algorithms.
+Completed the questions in java on Sorting Algorithms.  
 Topic:
 - Bubble Sort
 - Insertion Sort
@@ -112,8 +112,8 @@ Topic:
 - Selection Sort
 - Counting Sort  
 
-Day 16: 16/02/2025
-Completed the questions in java on Linear and Binary Search.
+Day 16: 16/02/2025  
+Completed the questions in java on Linear and Binary Search.  
 Topic:
 - StringBuilder
 - StringBuffer
@@ -121,3 +121,14 @@ Topic:
 - InputStreamReader
 - Linear Search 
 - Binary Search  
+
+Day 17: 17/02/2025  
+Completed the questions in java on Algorithm's Runtime Analysis & Big-O Notation.  
+Topic:
+- General Algorithm Best Practices
+- What is Runtime Analysis?
+- Understanding Big-O Notation
+- Time Complexity Analysis
+- Space Complexity Analysis
+- Best, Worst, and Average Case Complexities
+- Practical Guidelines for Optimizing Java Code  
