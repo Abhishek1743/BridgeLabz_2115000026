@@ -132,3 +132,13 @@ Topic:
 - Space Complexity Analysis
 - Best, Worst, and Average Case Complexities
 - Practical Guidelines for Optimizing Java Code  
+
+Day 18: 18/02/2025  
+Completed the questions in java on Java Generics.  
+Topic:
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards  
