@@ -143,8 +143,8 @@ Topic:
 - Bounded Type Parameters
 - Wildcards  
 
-Day 19: 20/02/2025  
-Completed the questions in javaa on Collections.  
+Day 19: 19/02/2025  
+Completed the questions in java on Collections.  
 Topic:
 - Overview of Collections Framework
 - What is the Collections Framework?
@@ -155,3 +155,14 @@ Topic:
 - Map Interface and Its Implementations
 - Comparison of Different Implementations
 - Real-World Use Cases and Best Practices  
+
+Day 20: 20/02/2025  
+Completed the questions in java on Java Streams.  
+Topic:
+- Java I/O Streams
+- Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
