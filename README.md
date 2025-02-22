@@ -159,13 +159,13 @@ Topic:
 Day 20: 20/02/2025  
 Completed the questions in java on Java Streams.  
 Topic:
-- Java I/O Streams
-- Types of Streams
-1. File Streams
-2. Object Streams
-3. ByteArray Streams
-4. Buffered Streams
-5. Reader and Writer  
+1. Java I/O Streams
+2. Types of Streams
+- File Streams
+- Object Streams
+- ByteArray Streams
+- Buffered Streams
+- Reader and Writer  
 
 Day 21: 21/02/2025  
 Completed the questions in java on Exceptions.  
@@ -184,3 +184,26 @@ Topic:
 4. Creating Custom Exceptions
 5. Extending Exception Class
 6. Defining Constructors  
+
+Day 22: 22/02/2025  
+Completed the questions in java on Regex and JUnit.  
+Topic:
+1. Regex 
+2. MetaCharacter
+3. Quantifier
+4. Common Patterns:
+- Email Validation
+- Password Strength
+- Phone Number Format 
+5. Java Regex API 
+- Pattern
+- Matcher
+7. Methods:
+- find()
+- matches()
+- replaceAll()
+8. Introduction to JUnit Framework
+9. JUnit Annotations
+11. Writing Test Cases
+11. Structure of a Test Class
+12. Assertions  
