@@ -207,3 +207,17 @@ Topic:
 11. Writing Test Cases
 11. Structure of a Test Class
 12. Assertions  
+
+Day 23: 23/02/2025  
+Completed the questions in java on Annotation and Reflections.  
+Topic:
+- Introduction to Annotations
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+- Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection  
