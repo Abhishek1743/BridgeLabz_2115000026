@@ -230,3 +230,12 @@ Topic:
 - Writing CSV Files
 - Parsing CSV Data
 - Data Validation  
+
+Day 25: 25/02/2025  
+Completed the questions in java on JSON Data  
+Topic:
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation  
